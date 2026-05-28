@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Dandy! 👋
 
-<!--
-**bonidandy/bonidandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Junior Web Developer focused on building modern web applications using React and JavaScript. Recently finished an internship and currently leveling up my skills through intensive projects.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Tools
+* Frontend: HTML5, CSS3, Tailwind, JavaScript (ES6+), React (Learning)
+* Backend: PHP, CodeIgniter4
+* Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Current Focus
+* Mastering React Hooks & Data Flow (State Management)
+* Building responsive and functional web applications.
+
+📫 How to reach me: bonidandyw@gmail.com
